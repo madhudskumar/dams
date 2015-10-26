@@ -1,0 +1,27 @@
+{
+  "name": "dams",
+  "version": "1.0.0",
+  "description": "dams using mnes",
+  "main": "server.js",
+  "scripts": {
+    "test": "dev",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhudskumar/dams.git"
+  },
+  "author": "MKDS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhudskumar/dams/issues"
+  },
+  "homepage": "https://github.com/madhudskumar/dams#readme",
+  "dependencies": {
+    "bower": "^1.6.5",
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.2",
+    "swig": "^1.4.2"
+  }
+}

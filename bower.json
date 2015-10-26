@@ -1,0 +1,22 @@
+{
+  "name": "dams",
+  "description": "dams using mnes",
+  "main": "server.js",
+  "authors": [
+    "MKDS"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "1"
+  ],
+  "homepage": "https://github.com/madhudskumar/dams",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
